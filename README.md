@@ -1,6 +1,6 @@
 # Volcano blog template
 
-This is a blog template to be used with Volcano.
+This is a blog template to be used with [Volcano](https://github.com/sebastianks/volcano).
 
 ## Get started
 
