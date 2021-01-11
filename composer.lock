@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "65511e79c99f79185b9a605ab112e200",
+    "content-hash": "48f0a251feb1a35e86496c1486fd73bd",
     "packages": [
         {
             "name": "erusev/parsedown",
@@ -58,16 +58,16 @@
         },
         {
             "name": "sebastianks/volcano",
-            "version": "dev-next",
+            "version": "0.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianks/volcano.git",
-                "reference": "85e3634e1d52bba2a37364f0a089e2adc5c129f1"
+                "reference": "07b01449483f9115499e9149ec53775ac0aeae50"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianks/volcano/zipball/85e3634e1d52bba2a37364f0a089e2adc5c129f1",
-                "reference": "85e3634e1d52bba2a37364f0a089e2adc5c129f1",
+                "url": "https://api.github.com/repos/sebastianks/volcano/zipball/07b01449483f9115499e9149ec53775ac0aeae50",
+                "reference": "07b01449483f9115499e9149ec53775ac0aeae50",
                 "shasum": ""
             },
             "require": {
@@ -81,17 +81,15 @@
             "description": "An extendable & lightweight flat-file blog and website constructor.",
             "support": {
                 "issues": "https://github.com/sebastianks/volcano/issues",
-                "source": "https://github.com/sebastianks/volcano/tree/next"
+                "source": "https://github.com/sebastianks/volcano/tree/0.0.5"
             },
-            "time": "2021-01-11T19:31:42+00:00"
+            "time": "2021-01-11T21:55:10+00:00"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "sebastianks/volcano": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],

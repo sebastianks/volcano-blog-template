@@ -1,5 +1,5 @@
 {
     "require": {
-        "sebastianks/volcano": "dev-next"
+        "sebastianks/volcano": "0.0.5"
     }
 }
